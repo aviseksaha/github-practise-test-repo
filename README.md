@@ -1,2 +1,3 @@
 Sunday
 Monday
+Tuesday
